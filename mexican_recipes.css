@@ -1,0 +1,28 @@
+/*general body styles*/
+body{
+    margin: 20px;
+}
+
+/*styles for the nav-bar*/
+a:hover{
+	text-decoration:underline;
+}
+
+.topnav-right {
+	overflow: hidden;
+	background-color:;
+}
+
+.topnav-right a {
+	float:right;
+	color: ;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration:none;
+	font-size:17px;
+}
+
+.topnav-right a:hover {
+	background-color: ;
+	color: ;
+}
